@@ -1,0 +1,1178 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot dayIssues 1`] = `
+<div>
+  <h2
+    className="graphH"
+  >
+    Active issues in selected day
+  </h2>
+  <p>
+    Choose any day from the calendar
+  </p>
+  <div
+    className="rv-xy-plot "
+    style={
+      Object {
+        "height": "400px",
+        "width": "550px",
+      }
+    }
+  >
+    <svg
+      className="rv-xy-plot__inner"
+      height={400}
+      onClick={[Function]}
+      onDoubleClick={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseMove={[Function]}
+      onMouseUp={[Function]}
+      onTouchCancel={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      onWheel={[Function]}
+      width={550}
+    >
+      <g
+        className="rv-xy-plot__grid-lines undefined"
+        transform="translate(35,35)"
+      >
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={330}
+          y2={330}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={297}
+          y2={297}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={264}
+          y2={264}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={230.99999999999997}
+          y2={230.99999999999997}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={198}
+          y2={198}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={165}
+          y2={165}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={132}
+          y2={132}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={99.00000000000001}
+          y2={99.00000000000001}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={65.99999999999999}
+          y2={65.99999999999999}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={32.99999999999999}
+          y2={32.99999999999999}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          style={
+            Object {
+              "stroke": "#B7E9ED",
+            }
+          }
+          x1={0}
+          x2={480}
+          y1={0}
+          y2={0}
+        />
+      </g>
+      <g
+        className="rv-xy-plot__series rv-xy-plot__series--bar "
+        transform="translate(35,35)"
+      >
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={0}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={15.483870967741936}
+          y={329.99670000000003}
+        />
+        <rect
+          height={33}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={30.967741935483872}
+          y={297}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={46.45161290322581}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={61.93548387096775}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={77.4193548387097}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={92.90322580645162}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={108.38709677419354}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={123.87096774193546}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={139.3548387096774}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={154.83870967741933}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={170.32258064516128}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={185.8064516129032}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={201.29032258064515}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={216.77419354838707}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={232.25806451612902}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={247.74193548387095}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={263.2258064516129}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={278.7096774193548}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={294.19354838709677}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={309.67741935483866}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={325.16129032258067}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={340.64516129032256}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={356.1290322580645}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={371.6129032258064}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={387.0967741935484}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={402.5806451612903}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={418.06451612903226}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={433.54838709677415}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={449.03225806451616}
+          y={329.99670000000003}
+        />
+        <rect
+          height={0.00329999999996744}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          style={
+            Object {
+              "fill": "rgb(149, 206, 255)",
+              "opacity": 1,
+              "stroke": "rgb(149, 206, 255)",
+            }
+          }
+          width={15.483870967741936}
+          x={464.51612903225805}
+          y={329.99670000000003}
+        />
+      </g>
+      <g
+        className="rv-xy-plot__axis rv-xy-plot__axis--horizontal "
+        style={Object {}}
+        transform="translate(35,365)"
+      >
+        <line
+          className="rv-xy-plot__axis__line"
+          style={Object {}}
+          x1={0}
+          x2={480}
+          y1={0}
+          y2={0}
+        />
+        <g
+          className="rv-xy-plot__axis__ticks"
+          transform="translate(0, 0)"
+        >
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(69.67741935483872, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              5
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(147.09677419354838, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              10
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(224.51612903225805, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              15
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(301.93548387096774, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              20
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(379.3548387096774, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              25
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(456.77419354838713, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              30
+            </text>
+          </g>
+        </g>
+        <g
+          className="rv-xy-plot__axis__title"
+          transform="translate(0, 0)"
+        >
+          <g
+            style={
+              Object {
+                "textAnchor": "end",
+              }
+            }
+            transform="translate(474, -6) rotate(0)"
+          >
+            <text
+              style={Object {}}
+            >
+              Dates
+            </text>
+          </g>
+        </g>
+      </g>
+      <g
+        className="rv-xy-plot__axis rv-xy-plot__axis--vertical "
+        style={Object {}}
+        transform="translate(0,35)"
+      >
+        <line
+          className="rv-xy-plot__axis__line"
+          style={Object {}}
+          x1={35}
+          x2={35}
+          y1={0}
+          y2={330}
+        />
+        <g
+          className="rv-xy-plot__axis__ticks"
+          transform="translate(35, 0)"
+        >
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 330)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              0
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 297)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              1
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 264)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              2
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 230.99999999999997)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              3
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 198)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              4
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 165)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              5
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 132)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              6
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 99.00000000000001)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              7
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 65.99999999999999)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              8
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 32.99999999999999)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              9
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              10
+            </text>
+          </g>
+        </g>
+        <g
+          className="rv-xy-plot__axis__title"
+          transform="translate(35, 0)"
+        >
+          <g
+            style={
+              Object {
+                "textAnchor": "end",
+              }
+            }
+            transform="translate(16, 6) rotate(-90)"
+          >
+            <text
+              style={Object {}}
+            >
+              Number of active issues
+            </text>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </div>
+</div>
+`;

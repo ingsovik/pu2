@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Issue renders 1`] = `
+<div
+  className="issuesGrid"
+>
+  <div
+    className="gridDiv"
+  >
+    <div
+      className="loadText"
+    >
+      Loading...
+    </div>
+  </div>
+</div>
+`;

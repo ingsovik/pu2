@@ -1,0 +1,235 @@
+/**************/
+/*  Coloring  */
+/**************/
+
+body{
+    background-color: white;
+    color: black;
+    overflow-x:hidden;
+}
+
+#root, .App, .inputDiv{
+    background-color: inherit;
+    color: inherit;
+}
+button{
+    border: 1px solid rgb(113, 154, 190);
+    background-color: rgb(221, 238, 253);
+    color: black;
+}
+
+button:hover{
+    border: 1px solid black;
+}
+
+.issueInfoDiv, .commitInfoDiv{
+    border: 1px solid rgb(113, 154, 190);
+    background-color: rgb(221, 238, 253);
+    color: black;
+}
+
+
+#tglColorBtn{
+    margin-left: 10px;
+    padding: 15px 50px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#tglColorBtn:hover{
+    background-color: white;
+}
+
+
+/*******************/
+/*  Inputs/submit  */
+/*******************/
+
+.inputDiv {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0 20px 0;
+    border-bottom: 1px solid grey;
+}
+
+.inputs {
+    width: 240px;
+}
+
+#tokenLabel, #urlLabel {
+    padding-right: 5px;
+}
+
+.labelDiv {
+    display: flex;
+    align-items: center;
+}
+
+#urlInput {
+    margin-right: 20px;
+}
+
+#submitBtn {
+    text-align: center;
+    margin-left: 15px;
+    padding: 6px 10px;
+    width: 70px;
+    border-radius: 3px;
+}
+
+#submitBtn:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+@media screen and (max-width: 950px) {
+    .inputDiv {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .inputs {
+        margin-top: 10px;
+    }
+    #urlInput {
+        margin-right: 0;
+    }
+    #tokenLabel, #urlLabel {
+        padding: 0;
+    }
+    #tokenLabel {
+        margin-top: 20px;
+    }
+    #submitBtn {
+        margin-left: 0;
+    }
+
+
+    .projectInfoDiv {
+        padding-top: 230px !important;
+    }
+    #infoHs{
+        font-size: 80%;
+    }
+}
+
+
+/*****************/
+/*  ProjectInfo  */
+/*****************/
+
+p {
+    line-height: 100%;
+}
+
+.projectInfoDiv {
+    display: flex;
+    justify-content: center;
+    padding-top: 104px;
+}
+#infoHs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+}
+#infoName{
+    margin-top: 10px;
+}
+#svgPic{
+    max-width: 30vw;
+    max-height: 30vw;
+    min-width: 100px;
+    padding: 0;
+}
+
+
+
+/**********************/
+/*  ToggleBtn + Grid  */
+/**********************/
+
+.toggleBtn {
+    padding: 15px 30px;
+    font-weight: bold;
+    width: 200px;
+    text-decoration: underline;
+}
+
+.tglBtnDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.tglH1 {
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+
+/* .toggleDiv { 
+    /*Everything: ProjectInfo, togglebtns, graphs, grid
+} */
+
+/* .dateContext { /*Datepicker + h1 + graph
+} */
+
+#datePicker { /*Datepicker*/
+    text-align: center;
+}
+
+#dateContextProviderGraph { /*Graph + h1*/
+    display: flex;
+    justify-content: center;
+}
+
+#pickDateLabel {
+    margin-right: 5px;
+    font-weight: 500;
+    font-size: 120%;
+}
+
+#issueTglButtons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.issuesGrid, .commitsGrid {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+.gridDiv {
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-gap: 8px;
+}
+
+@media screen and (max-width: 900px) {
+    .gridDiv {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.issueInfoDiv, .commitInfoDiv {
+    padding: 20px;
+    min-width: 33%;
+}
+
+.issueInfoDiv:hover, .commitInfoDiv:hover, .toggleBtn:hover {
+    background-color: white;
+    color: black;
+}
+
+.issueSpan, .commitSpan, .infoText {
+    margin-left: 3px; /* Space between "Title:" and "Title of issue" */
+}
